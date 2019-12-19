@@ -1,4 +1,3 @@
 <!-- TITLE: TT OpenLabs Anasayfa -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Bir Açık Kaynak Topluluğu -->
 
-# Header
